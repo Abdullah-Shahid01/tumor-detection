@@ -97,11 +97,6 @@ After training, the model is evaluated on the test set and outputs:
 - Ensure the dataset folder structure matches what the model expects.
 - The model uses grayscale images; channel conversion is handled internally.
 
-## 📸 Example Output
-
-Confusion matrix visualization:
-
-![Example Heatmap](#) *(Replace with an actual image if available)*
 
 ---
 
